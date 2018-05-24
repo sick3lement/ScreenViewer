@@ -6,7 +6,7 @@
 
   It handles the following features:
   
- - View remote desktop
- - Mouse movement control
- - Mouse buttons control
- - Keyboard control
+ - Viewing PC screen
+ - Handle Mouse movement(coordinates of mouse pointer)
+ - Handle Mouse buttons pressed/released
+ - Handle Keyboard strokes
